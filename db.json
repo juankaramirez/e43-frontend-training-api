@@ -1,5 +1,5 @@
 {
- speakers: [
+ "speakers": [
         {
             "name": "Cookie Monster",
             "imgSrc": "https://i.pinimg.com/originals/f8/0c/25/f80c25a9c6b644bacd08a182b4377689.jpg",
@@ -31,7 +31,7 @@
             "eventDescription": "I want talk about WTH Kurenai was thinking when she tried to use genjutsu on me xDDD "
         },
     ],
- sponsors: [
+ "sponsors": [
         {
             "name": "Hydra Co.",
             "imgSrc": "https://i.pinimg.com/originals/b9/f2/f6/b9f2f68294725b83c3c7b41527e8d193.jpg"
